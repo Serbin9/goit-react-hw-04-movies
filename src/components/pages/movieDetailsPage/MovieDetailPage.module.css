@@ -1,0 +1,26 @@
+.button{
+    width: auto;
+    height: auto;
+    color: white;
+    background-color: black;
+    font-weight: 700;
+}
+.score{
+    font-size: 18px;
+    font-weight: 700;
+    color: brown;
+}
+.name{
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+    color: darkblue;
+}
+.overview{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.genres{
+    color: chocolate;
+}

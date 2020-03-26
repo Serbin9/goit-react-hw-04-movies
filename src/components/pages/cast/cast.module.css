@@ -1,0 +1,22 @@
+.img{
+    width: 120px;
+    height: 200px;
+}
+.text{
+    font-weight: 700;
+    font-size: 18px;
+    color: rgb(243, 104, 11);
+
+}
+
+.text2{
+    font-weight: 700;
+    font-size: 18px;
+    color: yellowgreen
+}
+.text3{
+    font-weight: 700;
+    font-size: 18px;
+    color: rgb(23, 55, 197);
+
+}
